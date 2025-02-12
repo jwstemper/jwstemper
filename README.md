@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jwstemper
-- 👀 I’m interested in ... Microsoft Stack development and  Raspberry Pi
+- 👋 Hi, I’m John
+- 👀 I’m interested in ... Microsoft FULL Stack development, ESP 32 & Raspberry Pi
 - 🌱 I’m currently learning ... DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Blazor applications
 - 📫 How to reach me ...
 
 <!---
